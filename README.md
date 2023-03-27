@@ -1,6 +1,7 @@
 # Dice
 
 Refresh the page to roll the dice. 
+(Visit https://leng-h.github.io/Dice/ to see it live in action!)
 
 ![Screenshot1](https://user-images.githubusercontent.com/45100515/227736448-a57ecb91-d42c-49f8-85f2-10398c2b0422.png)
 
